@@ -1,0 +1,32 @@
+{
+  "name": "request-every",
+  "version": "1.0.0",
+  "description": "make a request every X milliseconds (command line tool)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marcelitocs/request-every.git"
+  },
+  "keywords": [
+    "request",
+    "every",,
+    "interval"
+    "cron",
+    "crontab"
+  ],
+  "bin": {
+    "request-every": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelito Costa",
+  "license": "ISC",
+  "homepage": "https://github.com/marcelitocs/request-every",
+  "bugs": {
+    "url": "https://github.com/marcelitocs/request-every/issues"
+  },
+  "dependencies": {
+    "request": "^2.82.0"
+  }
+}
