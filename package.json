@@ -9,8 +9,8 @@
   },
   "keywords": [
     "request",
-    "every",,
-    "interval"
+    "every",
+    "interval",
     "cron",
     "crontab"
   ],
